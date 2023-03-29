@@ -1,0 +1,4 @@
+rootProject.name = 'build_tools_task_step3'
+include 'core'
+include 'api'
+
